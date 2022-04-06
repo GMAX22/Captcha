@@ -11,7 +11,7 @@
   <a href="https://discord.gg/KMzNZMyWTx">
     <img src="https://discordapp.com/api/guilds/956902872853913600/widget.png?style=shield" alt="Discord Server">
   </a>
-  <a href="https://github.com/Rapptz/discord.py/">
+  <a href="https://github.com/Pycord-Development/pycord/">
      <img src="https://img.shields.io/badge/discord-py-blue.svg" alt="discord.py">
   </a>
 </p>
