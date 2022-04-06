@@ -9,7 +9,7 @@
 <h4 align="center">Moderation,Verification.</h4>
 <p align="center">
   <a href="https://discord.gg/KMzNZMyWTx">
-    <img src="https://discordapp.com/api/guilds/956902872853913600/widget.png?style=shield" alt="Discord Server">
+    <img src="https://img.shields.io/discord/956902872853913600?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white" alt="Discord Server">
   </a>
   <a href="https://github.com/Pycord-Development/pycord/">
      <img src="https://img.shields.io/pypi/v/py-cord.svg?style=for-the-badge&logo=pypi&color=yellowgreen&logoColor=white" alt="pycord">
