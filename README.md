@@ -12,7 +12,7 @@
     <img src="https://discordapp.com/api/guilds/956902872853913600/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://github.com/Pycord-Development/pycord/">
-     <img src="https://img.shields.io/pypi/pyversions/py-cord.svg?style=for-the-badge&logo=python&logoColor=white" alt="pycord">
+     <img src="https://img.shields.io/pypi/v/py-cord.svg?style=for-the-badge&logo=pypi&color=yellowgreen&logoColor=white" alt="pycord">
   </a>
 </p>
 <p align="center">
